@@ -1,0 +1,7 @@
+{
+  "name": "UniSmart",
+  "description": "A smart university student schedule generator that balances academic requirements with personal lifestyle constraints and includes note organization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
